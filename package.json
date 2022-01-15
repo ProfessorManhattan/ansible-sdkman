@@ -77,7 +77,10 @@
     },
     "slug": "sdkman",
     "subgroup": "role",
-    "title": "SDKMAN"
+    "title": "SDKMAN",
+    "github_id": "R_kgDOGrpOHQ",
+    "gitlab_project_id": "32861508",
+    "gitlab_group_id": "12261670"
   },
   "commitlint": {
     "extends": [
