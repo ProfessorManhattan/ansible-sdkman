@@ -67,7 +67,7 @@
     "access": "public"
   },
   "blueprint": {
-    "description": "Installs SDKMAN on Linux or macOS",
+    "description": "Installs SDKMAN on Linux or macOS and installs a configurable list of SDKs",
     "github_id": "R_kgDOGrpOHQ",
     "gitlab_group_id": "12261670",
     "gitlab_project_id": "32861508",
