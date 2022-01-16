@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ansible-sdkman"
 version = "1.0.0"
-description = "Installs SDKMAN on Linux or macOS and installs a configurable list of SDKs"
+description = "Installs SDKMAN on Linux or macOS"
 authors = ["Brian Zalewski <brian@megabyte.space>"]
 license = "MIT"
 readme = "README.md"

@@ -2,7 +2,7 @@
   "private": false,
   "name": "@installdoc/ansible-sdkman",
   "version": "1.0.0",
-  "description": "Installs SDKMAN on Linux or macOS and installs a configurable list of SDKs",
+  "description": "Installs SDKMAN on Linux or macOS",
   "license": "MIT",
   "author": "Brian Zalewski <brian@megabyte.space> (https://megabyte.space)",
   "homepage": "https://megabyte.space",
