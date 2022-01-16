@@ -67,7 +67,7 @@
     "access": "public"
   },
   "blueprint": {
-    "description": "Installs SDKMAN on Linux or macOS",
+    "description": "Installs SDKMAN on Linux or macOS and optionally installs a configurable list of SDKs",
     "group": "ansible",
     "name": "SDKMAN",
     "overview": "[SDKMAN](https://sdkman.io/) is a tool for managing multiple versions of various Software Development Kits (SDKs) for the JVM on any UNIX-based system. It provides a convenient command line interface for installing, switching, removing and listing candidates. With SDKMAN, you can install and manage dependencies like Java, Groovy, Scala, Kotlin, and Ceylon. You can also use it to manage Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x, and many [other SDKs](https://sdkman.io/sdks).",
