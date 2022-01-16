@@ -2,7 +2,7 @@
   "private": false,
   "name": "@installdoc/ansible-sdkman",
   "version": "1.0.0",
-  "description": "Installs SDKMAN on Linux or macOS and automatically installs a configurable list of SDKs under a configurable list of users",
+  "description": "Installs SDKMAN on Linux or macOS and optionally installs a configurable list of SDKs",
   "license": "MIT",
   "author": "Brian Zalewski <brian@megabyte.space> (https://megabyte.space)",
   "homepage": "https://megabyte.space",
@@ -67,7 +67,10 @@
     "access": "public"
   },
   "blueprint": {
-    "description": "Installs SDKMAN on Linux or macOS and optionally installs a configurable list of SDKs",
+    "description": "Installs SDKMAN on Linux or macOS",
+    "github_id": "R_kgDOGrpOHQ",
+    "gitlab_group_id": "12261670",
+    "gitlab_project_id": "32861508",
     "group": "ansible",
     "name": "SDKMAN",
     "overview": "[SDKMAN](https://sdkman.io/) is a tool for managing multiple versions of various Software Development Kits (SDKs) for the JVM on any UNIX-based system. It provides a convenient command line interface for installing, switching, removing and listing candidates. With SDKMAN, you can install and manage dependencies like Java, Groovy, Scala, Kotlin, and Ceylon. You can also use it to manage Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x, and many [other SDKs](https://sdkman.io/sdks).",
@@ -77,10 +80,7 @@
     },
     "slug": "sdkman",
     "subgroup": "role",
-    "title": "SDKMAN",
-    "github_id": "R_kgDOGrpOHQ",
-    "gitlab_project_id": "32861508",
-    "gitlab_group_id": "12261670"
+    "title": "SDKMAN"
   },
   "commitlint": {
     "extends": [
