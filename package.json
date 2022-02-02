@@ -71,6 +71,7 @@
     "access": "public"
   },
   "blueprint": {
+    "ansible_galaxy_project_id": "57598",
     "description": "Installs SDKMAN on Linux or macOS",
     "github_id": "R_kgDOGrpOHQ",
     "gitlab_group_id": "",
@@ -84,8 +85,7 @@
     },
     "slug": "sdkman",
     "subgroup": "role",
-    "title": "SDKMAN",
-    "ansible_galaxy_project_id": "57598"
+    "title": "SDKMAN"
   },
   "changelog": {
     "displayTypes": [
