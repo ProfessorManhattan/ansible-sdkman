@@ -11,38 +11,30 @@ galaxy_info:
   platforms:
     - name: ArchLinux
       versions:
-        - Latest
-    - name: CentOS
+        - all
+    - name: EL
       versions:
         - 7
         - 8
-        - 8
     - name: Debian
       versions:
-        - buster
-        - all
         - bullseye
+        - buster
         - stretch
     - name: Fedora
       versions:
         - 33
         - 34
         - 35
-        - all
     - name: Ubuntu
       versions:
         - bionic
-        - all
         - focal
         - hirsute
         - impish
     - name: Windows
       versions:
         - all
-    - name: EL
-      versions:
-        - 7
-        - 8
     - name: MacOS
       versions:
         - all
