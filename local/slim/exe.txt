@@ -14,3 +14,11 @@ git-cz
 jq
 jq
 yq
+yq
+jq
+git-cz
+husky
+jq
+commitlint
+jq
+yq
